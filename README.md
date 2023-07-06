@@ -1,4 +1,4 @@
-# Dublin_Marathon_2019
+# Uncovering patterns in the Dublin Marathon 2019
 
 This study uses Dublin Marathon 2019 data to answer the following research questions:
 
